@@ -43,7 +43,7 @@ class Usuario{
 
   void autenticar(){
     var usuario = "Emile.bordinvargas@gmail.com";
-    var senha = "20023024";
+    var senha = "xxxxx";
 
 
 
@@ -62,7 +62,7 @@ class Usuario{
 
   Usuario usuario = Usuario();
   usuario.usuario = "Emile.bordinvargas@gmail.com";
-  usuario.senha = "20023024";
+  usuario.senha = "xxxxxx";
 
   usuario.autenticar();
 }
